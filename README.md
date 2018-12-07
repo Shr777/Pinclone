@@ -1,4 +1,9 @@
 # Pintersetclone
+This is a clone of pinterest site done on angular 5.
+For Routes--
+http://localhost:4200/boards/:id
+id=0--->Animals Board
+id=1--->Recipes Board.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
